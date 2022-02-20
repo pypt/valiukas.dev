@@ -2,37 +2,91 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: "<strong>me!</strong>"
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: "<a href='mailto:pypt@pypt.lt'>pypt@pypt.lt</a>"
+      - title: Resume / CV
+        url: resume-cv
+      - title: GitHub
+        url: https://github.com/pypt
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/linasvaliukas
+      - title: Facebook
+        url: https://www.facebook.com/linas.valiukas
+      - title: GoodReads
+        url: https://www.goodreads.com/pypt
 
-  - title: all posts
+  - title: "<strong>curiosities</strong> (<a href='feed.xml'>rss</a>):"
     post_list:
-      limit: 5
+      category: en
+      limit: 60
       show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_text: archive
+      show_more_url: archive-en.html
 
-  - title: posts by category
+  - title: "<strong>kuriozai</strong> (<a href='feed.xml'>rss</a>):"
     post_list:
-      category: example2
+      category: lt
+      limit: 60
       show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_text: archyvas
+      show_more_url: archive-lt.html
 
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: "<strong>past:</strong>"
     entries:
-      - title: with subitems
+      - title: Media Cloud
+        url: https://mediacloud.org/
+      - title:  Lietuviška „iOS“ klaviatūra „Alt+Shift“
+        url: https://itunes.apple.com/app/apple-store/id993465092?pt=241952&ct=pypt.lt-link&mt=8
+      - title: Anglonas
         entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
+          - title: iOS
+            url: https://itunes.apple.com/lt/app/anglonas-english-lithuanian/id381153256?mt=8
+          - title: macOS
+            url: https://itunes.apple.com/lt/app/anglonas/id411857989?mt=12
+          - title: Android
+            url: https://play.google.com/store/apps/details?id=lt.fotonija.android.anglonas
+      - title: shaibos - individualios veiklos mokesčių skaičiuoklė kompiuterastams
+        url: https://github.com/pypt/shaibos
+      - title: .lt corpus - Lithuanian language corpus (lietuvių kalbos tekstynas)
+        url: https://corpus.pypt.lt/
+
+  - title: "<strong>deep past:</strong>"
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: Lietuvių kalbos žodynas (LKŽ)
+        url: lkz
+      - title: Fervor, a simple multiplatform (Qt-based) application updater inspired by Sparkle
+        url: https://github.com/pypt/fervor
+      - title: OpenDict, a free English-Lithuanian-English dictionary for macOS
+        url: opendict-macos
+      - title: LaTeX template for VU KF students
+        url: https://github.com/pypt/VU-KF-LaTeX-template
+      - title: GSoC 2012 - Media Cloud multi language support
+        url: gsoc-2012-mediacloud
+      - title: GSoC 2011 - wxWidgets iOS port
+        url: gsoc-2011-wxios
+
+  - title: "<strong>superdeep megapast:</strong>"
+    entries:
+      - title: Journalism at Vilnius university
+        url: https://www.kf.vu.lt/
+      - title: Studentų era
+        url: https://www.facebook.com/pages/category/Company/Student%C5%B3-era-22632841559/
+      - title: 15min.lt for iPhone
+        url: https://apps.apple.com/lt/app/15min/id322573191
+      - title: DELFI
+        url: https://www.delfi.lt/
+      - title: FreeBSD ports
+        entries:
+          - title: games/quake3
+            url: https://www.freshports.org/games/quake3/
+          - title: deskutils/kchm
+            url: https://www.freshports.org/deskutils/kchm/
+          - title: net/tspc2
+            url: https://www.freshports.org/net/tspc2/
+      - title: Protas - įvairi teorija ir kita medžiaga egzaminams
+        url: https://protas.pypt.lt/
+      - title: debian meet'o skriptas
+        url: https://stuff.pypt.lt/debian_mytas.php.gz
+      - title: Gyvenimo prasmė
+        url: gyvenimo-prasme
