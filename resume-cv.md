@@ -7,7 +7,7 @@ title: Resume / CV
 
 ## Linas Valiukas
 
-Lithuania • <linas.valiukas@gmail.com> • [+370 687 65870](tel:+37068765870) • [LinkedIn](http://linkedin.com/in/linasvaliukas) • [GitHub](https://github.com/pypt)
+Lithuania • <linas@valiukas.dev> • [+370 687 65870](tel:+37068765870) • [LinkedIn](http://linkedin.com/in/linasvaliukas) • [GitHub](https://github.com/pypt)
 
 Accomplished backend developer and versatile technologist with proven ability to contribute to software development, systems administration, and database administration initiatives. Experience includes 10 years as a remote employee for a US-based news media research project affiliated with MIT and Harvard, several significant personal projects, and multiple freelance assignments. Effective communicator and collaborator with proven success in remote roles with limited supervision.
 
