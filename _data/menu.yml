@@ -15,6 +15,8 @@ entries:
         url: https://www.facebook.com/linas.valiukas
       - title: GoodReads
         url: https://www.goodreads.com/pypt
+      - title: Roma Valiukienė — Gilinkite anglų kalbos žinias su 40+ metų patirtį turinčia dėstytoja.
+        url: https://www.romaenglish.com/
 
   - title: "<strong>curiosities</strong> (<a href='feed.xml'>rss</a>):"
     post_list:
@@ -34,6 +36,8 @@ entries:
 
   - title: "<strong>past:</strong>"
     entries:
+      - title: Automattic
+        url: https://automattic.com/
       - title: Media Cloud
         url: https://mediacloud.org/
       - title:  Lietuviška „iOS“ klaviatūra „Alt+Shift“
